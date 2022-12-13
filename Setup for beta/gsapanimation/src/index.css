@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.serif{
+    font-family: 'Century Schoolbook';
+}
+
+.cinzel{
+    font-family: 'Cinzel Decorative';
+}
